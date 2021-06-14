@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Floating Time</title>
-        <link>https://kkkkkino.github.io/kino/categories/</link>
+        <link>https://kkkkkino.github.io/categories/</link>
         <description>Categories - Category - Floating Time</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kino12@163.com (kino)</managingEditor>
-            <webMaster>kino12@163.com (kino)</webMaster><atom:link href="https://kkkkkino.github.io/kino/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>kino12@163.com (kino)</webMaster><atom:link href="https://kkkkkino.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
