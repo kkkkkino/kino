@@ -1,21 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Floating Time</title>
-        <link>https://kino.gitee.io.git/posts/</link>
+        <link>https://kkkkkino.github.io/kino/posts/</link>
         <description>All Posts | Floating Time</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kino12@163.com (kino)</managingEditor>
-            <webMaster>kino12@163.com (kino)</webMaster><atom:link href="https://kino.gitee.io.git/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kino12@163.com (kino)</webMaster><atom:link href="https://kkkkkino.github.io/kino/posts/" rel="self" type="application/rss+xml" /><item>
     <title></title>
-    <link>https://kino.gitee.io.git/posts/tools/</link>
+    <link>https://kkkkkino.github.io/kino/posts/tools/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://kino.gitee.io.git/posts/tools/</guid>
-    <description><![CDATA[title: &ldquo;Tools&rdquo; date: 2019-12-01T04:49:30+08:00 draft: false
-一、常用工具 Idea 插件 Free MyBatis Plugin  生成mapper xml文件 快速从代码跳转到mapper及从mapper返回代码 mybatis自动补全及语法错误提示  GenerateAllSetter alt+enter快捷键，一键生成所有setter 方法。
-camelCase 使用 快捷键 shift + alt + u ，变量就会改变，支持大小写，下划线，驼峰，首字母大写等转化。
-sonarLint /Alibaba Java Coding Guidelines 代码质量检查工具.
-RESTfultoolkit 通过快捷键ctrl +\来进行搜索路径。
-Chrome 插件 JSON-handle 快速格式化并查看Json 字符串
-截图工具 snipaste ]]></description>
+    <guid>https://kkkkkino.github.io/kino/posts/tools/</guid>
+    <description><![CDATA[hello world!]]></description>
 </item></channel>
 </rss>
