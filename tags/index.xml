@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Floating Time</title>
+        <link>https://kino.gitee.io.git/tags/</link>
+        <description>Tags - Tag - Floating Time</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kino12@163.com (kino)</managingEditor>
+            <webMaster>kino12@163.com (kino)</webMaster><atom:link href="https://kino.gitee.io.git/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
